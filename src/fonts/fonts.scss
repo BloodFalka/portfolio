@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'IBMPlexMono';
+    src: local('IBMPlexMono'), url(./IBMPlexMono.woff2) format('truetype');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "IBMPlexMono";
+    src: local('IBMPlexMonoBold'), url(./IBMPlexMonoBold.woff2) format('truetype');
+    font-weight: bold;
+    font-display: swap;
+}
